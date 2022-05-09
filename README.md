@@ -53,6 +53,17 @@ server and the browser with a cookie.  As authenticated users interact with the
 app, the login state is restored by authenticating the session.
 Also you may want to edit Session maxAge from app.js which now set to 1 Minute for Testing Purposes
 
+## MVC Pattern
+All the codes broken into serveral little parts so the application can easily scale up and add any other sing-in methods
+Routes :
+
+```
+/auth for generic user purposes
+/auth/google for google sign-in purposes
+```
+
+/auth/facebook can be next step to implement
+
 ## Credit
 
 Created by [Mahdyar Mojtahed](https://www.mahdyarmojtahed.ir/)
