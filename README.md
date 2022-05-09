@@ -2,7 +2,7 @@
 
 This app shows you how to use
 [Passport](https://www.passportjs.org/)
-with [Express](https://expressjs.com/) to sign users in by sing-in service provided by [Google](https://www.google.com/).
+with [Express](https://expressjs.com/) to sign users in by sign-in service provided by [Google](https://www.google.com/).
 
 
 You can Use this Application as a default starting for your own backend applications for web or mobile apps.
